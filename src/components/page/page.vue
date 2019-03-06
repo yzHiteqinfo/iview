@@ -89,7 +89,6 @@
                 default: 0
             },
             pageSize: {
-                type: Number,
                 default: 10
             },
             pageSizeOpts: {
